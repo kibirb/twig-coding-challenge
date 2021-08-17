@@ -4,6 +4,7 @@ equally sized arrays. Where the size of the original array cannot be divided equ
 by N, the final part should have a length equal to the remainder.
 
 ## Instructions
- - $ import the function
- - $ use it(e.g(groupArrayElements([1, 2, 3, 4, 5], 3);
-  should give:[ [ 1, 2 ], [ 3, 4 ], [ 5 ] ]))
+ - $ Import the function
+ - $ console.log(groupArrayElements([1, 2, 3, 4, 5], 3));
+  should yield:[ [ 1, 2 ], [ 3, 4 ], [ 5 ] ]))
+  It will work for all other input requests aswel
